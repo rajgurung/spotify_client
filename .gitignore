@@ -1,0 +1,5 @@
+# Ignore application configuration
+/config/application.yml
+/routes/base.rb
+/config/token.rb
+/lib/request_token.rb
