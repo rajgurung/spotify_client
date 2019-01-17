@@ -10,4 +10,3 @@ class API < Grape::API
   mount ::Routes::Home => '/'
   mount ::Routes::Genres
 end
-
