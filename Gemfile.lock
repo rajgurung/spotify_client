@@ -78,6 +78,7 @@ DEPENDENCIES
   puma
   rspec
   shotgun
+  virtus
 
 RUBY VERSION
    ruby 2.6.0p0

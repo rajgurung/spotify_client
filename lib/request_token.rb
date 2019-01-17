@@ -4,7 +4,7 @@ require 'faraday'
 class RequestToken 
   include Singleton
 
-  attr_reader :connection, :_access_token, :_expires_in  
+  attr_reader :connection, :_access_token, :_expires_in
   private :_access_token, :_expires_in
 
   def initialize
