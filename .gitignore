@@ -3,3 +3,5 @@
 /routes/base.rb
 /config/token.rb
 /lib/request_token.rb
+*.xml
+*.iml

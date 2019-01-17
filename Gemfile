@@ -6,7 +6,10 @@ gem 'grape'
 gem 'puma'
 gem 'faraday'
 gem 'shotgun'
-gem 'figaro'
 gem 'json'
 gem 'rspec'
 gem 'virtus'
+
+group :development, :test do
+  gem 'dotenv-rails'
+end
