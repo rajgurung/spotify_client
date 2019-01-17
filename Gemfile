@@ -2,12 +2,12 @@ source 'https://rubygems.org'
 
 ruby "2.6.0"
 
-gem 'grape'
-gem 'puma'
 gem 'faraday'
-gem 'shotgun'
+gem 'grape'
 gem 'json'
+gem 'puma'
 gem 'rspec'
+gem 'shotgun'
 gem 'virtus'
 
 group :development, :test do

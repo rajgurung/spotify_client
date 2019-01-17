@@ -5,3 +5,4 @@
 /lib/request_token.rb
 *.xml
 *.iml
+.env
